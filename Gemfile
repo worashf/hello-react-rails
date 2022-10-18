@@ -8,7 +8,6 @@ gem 'rails', '~> 7.0.4'
 # Rubocop
 gem 'jsbundling-rails'
 gem 'rubocop', '>= 1.0', '< 2.0'
-
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
 
